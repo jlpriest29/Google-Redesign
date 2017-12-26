@@ -1,0 +1,61 @@
+/*Google Logo*/
+img{
+	width: 60%;
+	height: 25%;
+	padding-top: 0%;
+}
+#Logo{
+	text-align: center;
+	padding-top: 10%;
+}
+/*Search Bar*/
+.input-group{
+	padding-top: 5%;
+}
+.input-group input:hover{
+	box-shadow: 0px 4px 5px rgba(0,0,0,0.2),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.1);
+}
+
+/*Color of Navbar*/
+.navbar{
+	background: #0D47A1;
+	background-color: #0D47A1;
+	border: 0px;
+}
+
+/*Color of Navbar Links*/
+.navbar-default .navbar-nav>li>a{
+	color: white;
+}
+
+/*Color of Navbar Brand*/
+.navbar-default .navbar-brand{
+	color: white;
+}
+
+/*Color of Hamburger Button*/
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle{
+	background-color: #0D47A1;
+	border-color: white;
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #2196F3;
+}
+
+/*Color of Hamburger Button when Hovered*/
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+	background-color: white;
+	border-color: white;
+}
+
+/*Color of Body Background*/
+body{
+	background-color: #2196F3;
+	font-family: Arial;
+}
+/*HTML*/
+html{
+	height: 100%;
+}
